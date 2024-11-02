@@ -5,8 +5,8 @@
 I'm Narada Gibbs-Burke from Barbados, and im currently a student at Niagara College taking the Computer and Programming analysis course and im also on the knights soccer varisity team. I really enjoy learning and working in C# along with html and css. Moreover, I also enjoy developing GUI, wireframing and design on a whole.  
 
 ## Skills and Experience
--🖥️ C# / SQL 
--📱 HTML / CSS
+-  🖥️ C# / SQL 
+-  📱 HTML / CSS
 
 ### Some facts about me
 - 🔭 I’m currently working on Growing my portfolio 
